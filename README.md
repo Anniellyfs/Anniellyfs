@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Annielly
 
 * Cursando Bacharel em Sistemas de Informação na instituição UFRN
-* Atualmente, tenho como foco principal dos meus estudos as áreas de desenvolvimento web 
+* Atualmente, tenho como foco principal dos meus estudos a área de desenvolvimento web 
 
 <div align="center">
   <a href="https://github.com/Anniellyfs">
